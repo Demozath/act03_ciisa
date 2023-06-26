@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">act03_ciisa</string>
+        <string name="app_name">act03_ciisa</string>
+        <string name="ru_cabecera">Registro de usuarios</string>
+        <string name="ru_nombre">Nombre</string>
+        <string name="ru_apellido">Apellido</string>
+        <string name="am_et_user">Usuario</string>
+        <string name="am_et_pass">Contraseña</string>
+        <string name="am_btn_ingresar">Ingresar</string>
+        <string name="am_tv_registro_usuarios">Registro de usuarios</string>
+        <string name="ru2_titulo">Regiso de usuarios 2</string>
+
 </resources>
